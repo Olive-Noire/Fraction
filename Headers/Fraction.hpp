@@ -21,7 +21,7 @@ class Fraction {
     Fraction(const Fraction&) = default;
     Fraction(Fraction&&) = default;
 
-    bool Integer() const;
+    bool IsInteger() const;
     double Value() const;
 
     int GetNumerator() const;
