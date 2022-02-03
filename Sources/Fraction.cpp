@@ -46,7 +46,7 @@ Fraction::Fraction(double n, double d) {
 
 }
 
-bool Fraction::Integer() const { return _denominator == 1; }
+bool Fraction::IsInteger() const { return _denominator == 1; }
 
 double Fraction::Value() const { return _numerator/_denominator; }
 
