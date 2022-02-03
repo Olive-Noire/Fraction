@@ -18,6 +18,7 @@ Les fractions restent un objet mathématique très attachées à ce domaine, et 
 
 L'histoire des fractions plus complète sur maths et tiques : https://www.maths-et-tiques.fr/index.php/histoire-des-maths/nombres/les-fractions
 Représentation graphique des opérations sur Wikipédia : https://fr.wikipedia.org/wiki/Fraction_(math%C3%A9matiques)
+
 Fractions dyadiques sur Wikipédia : https://fr.wikipedia.org/wiki/Fraction_dyadique
 
 Fractions continues sur Wikipédia : https://fr.wikipedia.org/wiki/Fraction_continue
